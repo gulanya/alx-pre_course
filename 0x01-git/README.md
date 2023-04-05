@@ -1,1 +1,2 @@
 hardwork
+learning
